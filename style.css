@@ -1,0 +1,402 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1500px;
+    height: 2050px;
+    background-image: url(./Image.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 10px solid greenyellow;
+   
+}
+.container1{
+    width: 350px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    border: 7px solid red;
+    border-radius: 30px;
+    padding: 20px 20px;
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+.container2{
+    width: 370px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    border: 7px solid red;
+    border-radius: 30px;
+    padding: 20px 20px;
+    position: relative;
+    bottom: 100px;
+    left: 530px;
+}
+.h1{
+    padding: 15px 10px;
+}
+.container3{
+    width: 350px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    border: 7px solid red;
+    border-radius: 30px;
+    padding: 20px 20px;
+    position: relative;
+    bottom: 210px;
+    left: 1050px;
+}
+.container4{
+    width: 450px;
+    height: 900px;
+    border: 7px red dashed;
+    position: relative;
+    bottom: 170px;
+    left: 500px;
+    
+}
+.h2
+{
+    color: red;
+    padding: 20px 20px;
+}
+.container5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    text-align: center;
+    justify-content: space-between
+}
+
+.l1{
+    font-size: 25px;
+    color: red;
+    display: flex;
+    position: relative;
+    bottom: -20px;
+}
+.p1{
+    position: relative;
+    bottom: -20px;
+}
+.l2{
+    font-size: 25px;
+    color: red;
+    display: flex;
+    position: relative;
+    bottom: -50px;
+}
+.p2{
+    position: relative;
+    bottom: -50px;
+}
+.l3{
+    font-size: 25px;
+    color: red;
+    display: flex;
+    position: relative;
+    bottom: -80px;
+}
+.p3{
+    position: relative;
+    bottom: -80px;
+}.l4{
+    font-size: 25px;
+    color: red;
+    display: flex;
+    position: relative;
+    bottom: -120px;
+}
+.p4{
+    position: relative;
+    bottom: -120px;
+}
+.l5{
+    font-size: 25px;
+    color: red;
+    display: flex;
+    position: relative;
+    bottom: -160px;
+}
+.p5{
+    position: relative;
+    bottom: -162px;
+}
+.l6{
+    font-size: 25px;
+    color: red;
+    display: flex;
+    position: relative;
+    bottom: -210px;
+}
+.p6{
+    position: relative;
+    bottom: -220px;
+}
+.l7{
+    font-size: 25px;
+    color: red;
+    display: flex;
+    position: relative;
+    bottom: -255px;
+}
+.p7{
+    position: relative;
+    bottom: -265px
+}
+.l8{
+    font-size: 25px;
+    color: red;
+    display: flex;
+    position: relative;
+    bottom: -320px;
+}
+.p8{
+    position: relative;
+    bottom: -320px;
+   
+}
+.l9{
+    font-size: 25px;
+    color: red;
+    display: flex;
+    position: relative;
+    bottom: -370px;
+}
+.p9{
+    position: relative;
+    bottom: -370px;
+   
+}
+.box{
+    width: 485px;
+    height: 500px;
+    background-color: aqua;
+    border: 8px solid white;
+    border-radius: 50%;
+    position: relative;
+    bottom: 900px;
+}
+.box1{
+    position: relative;
+    top: 100px;
+    left: 90px;
+}
+.line{
+    position: relative;
+    top: 140px;
+    color: white;
+
+}
+.box2{
+    position: relative;
+    top: 180px;
+    left: 50px;
+}
+.box3{
+    position: relative;
+    top: 200px;
+    left: 50px;
+}
+.line2{
+    position: relative;
+    top: 225px;
+
+}
+.menu{
+    width: 400px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: 4px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-style: italic;
+    border-radius: 20px;
+    position: relative;
+    bottom: 650px;
+    left: 530px;
+}
+.middle-line{
+    position: relative;
+    bottom: 565px;
+}
+
+.h3{
+    position: relative;
+    top: 20px;
+    left: 120px;
+}
+.hr3{
+    position: relative;
+    bottom: -35px;
+}
+.menu1{
+    width: 350px;
+    height: 250px;
+    background-color: aqua;
+    position: relative;
+    bottom: 500px;
+    left: 110px;
+    border: 2px solid green;
+    border-radius: 30px;
+}
+    
+.menu2{
+    position: relative;
+    top: 60px;
+    left: 130px;
+    
+}
+.h4{
+    position: relative;
+    top: 20px;
+    left: 90px;
+}
+.hr4{
+    position: relative;
+    bottom: -35px;
+}
+.menu3{
+    width: 350px;
+    height: 250px;
+    background-color: aqua;
+    position: relative;
+    bottom: 750px;
+    left: 580px;
+    border: 2px solid green;
+    border-radius: 30px;
+}
+    
+.menu4{
+    position: relative;
+    top: 60px;
+    left: 130px;
+    
+}
+
+
+
+.h5{
+    position: relative;
+    top: 20px;
+    left: 80px;
+}
+.hr5{
+    position: relative;
+    bottom: -35px;
+}
+.menu5{
+    width: 350px;
+    height: 250px;
+    background-color: aqua;
+    position: relative;
+    bottom: 1000px;
+    left: 1050px;
+    border: 2px solid green;
+    border-radius: 30px;
+}
+    
+.menu6{
+    position: relative;
+    top: 60px;
+    left: 130px;
+    
+}
+
+
+
+.h6{
+    position: relative;
+    top: 20px;
+    left: 80px;
+}
+.hr6{
+    position: relative;
+    bottom: -35px;
+}
+.menu7{
+    width: 350px;
+    height: 250px;
+    background-color: aqua;
+    position: relative;
+    bottom: 900px;
+    left: 110px;
+    border: 2px solid green;
+    border-radius: 30px;
+}
+    
+.menu8{
+    position: relative;
+    top: 60px;
+    left: 130px;
+    
+}
+
+.h7{
+    position: relative;
+    top: 20px;
+    left: 80px;
+}
+.hr7{
+    position: relative;
+    bottom: -35px;
+}
+.menu9{
+    width: 350px;
+    height: 250px;
+    background-color: aqua;
+    position: relative;
+    top: -1150px;
+    left: 580px;
+    border: 2px solid green;
+    border-radius: 30px;
+}
+    
+.menu10{
+    position: relative;
+    top: 60px;
+    left: 130px;
+    
+}
+.h8{
+    position: relative;
+    top: 20px;
+    left: 80px;
+}
+.hr8{
+    position: relative;
+    bottom: -35px;
+}
+.menu11{
+    width: 350px;
+    height: 250px;
+    background-color: aqua;
+    position: relative;
+    bottom: 1405px;
+    left: 1050px;
+    border: 2px solid green;
+    border-radius: 30px;
+}
+    
+.menu12{
+    position: relative;
+    top: 60px;
+    left: 130px;
+    
+}
+
+
+
